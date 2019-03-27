@@ -2,7 +2,7 @@
     "name": "beyond-the-horizon-theme-vscode",
     "displayName": "Beyond the Horizon",
     "description": "A beautifully warm dark theme for Visual Studio Code (an enhanced version of Horizon)",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "shaneyu",
     "author": {
         "name": "Shane Yu"
