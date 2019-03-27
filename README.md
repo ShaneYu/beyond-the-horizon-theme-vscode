@@ -111,7 +111,8 @@ The normal theme only uses italics in a few places: comments, parameters, and so
 
 ## Credits
 
-[Jonathan Olaleye](https://github.com/jolaleye) for the original [Horizon](https://jolaleye.github.io/horizon-theme-vscode) theme this one is based on and enhances.
+- [Jonathan Olaleye](https://github.com/jolaleye) for the original [Horizon](https://jolaleye.github.io/horizon-theme-vscode) theme this one is based on and enhances.
+- [Designed by Freepik](http://www.freepik.com) for the ninja image I'm using as my extension icon for now.
 
 ## License
 
