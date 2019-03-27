@@ -8,15 +8,15 @@
 <p align="center">
   <!-- marketplace version -->
   <a href="https://marketplace.visualstudio.com/items?itemName=shaneyu.beyond-the-horizon-theme-vscode">
-    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/ShaneYu.beyond-the-horizon-theme-vscode.svg?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=FAB38E">
+    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/shaneyu.beyond-the-horizon-theme-vscode.svg?maxAge=3600&style=for-the-badge&colorA=1C1E26">
   </a>
   <!-- downloads -->
   <a href="https://marketplace.visualstudio.com/items?itemName=shaneyu.beyond-the-horizon-theme-vscode">
-    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/ShaneYu.beyond-the-horizon-theme-vscode.svg?maxAge=3600&style=for-the-badge&colorA=1C1E26&colorB=FAB38E">
+    <img alt="downloads" src="https://img.shields.io/visual-studio-marketplace/d/shaneyu.beyond-the-horizon-theme-vscode.svg?maxAge=3600&style=for-the-badge&colorA=1C1E26">
   </a>
   <!-- rating -->
   <a href="https://marketplace.visualstudio.com/items?itemName=shaneyu.beyond-the-horizon-theme-vscode">
-    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/ShaneYu.beyond-the-horizon-theme-vscode.svg?maxAge=86400&style=for-the-badge&colorA=1C1E26&colorB=FAB38E">
+    <img alt="rating" src="https://img.shields.io/visual-studio-marketplace/stars/shaneyu.beyond-the-horizon-theme-vscode.svg?maxAge=86400&style=for-the-badge&colorA=1C1E26">
   </a>
 </p>
 
