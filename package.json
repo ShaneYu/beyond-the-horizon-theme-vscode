@@ -1,0 +1,45 @@
+{
+    "name": "beyond-the-horizon-theme-vscode",
+    "displayName": "Beyond the Horizon",
+    "description": "A beautifully warm dark theme for Visual Studio Code (an enhanced version of Horizon)",
+    "version": "0.0.1",
+    "publisher": "shaneyu",
+    "author": {
+        "name": "Shane Yu"
+    },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "shadowrealm",
+        "warm"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Beyond the Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/beyond-the-horizon-theme.json"
+            }
+        ]
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ShaneYu/beyond-the-horizon-theme-vscode/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ShaneYu/beyond-the-horizon-theme-vscode.git"
+    },
+    "homepage": "https://github.com/ShaneYu/beyond-the-horizon-theme-vscode/blob/master/README.md"
+}
